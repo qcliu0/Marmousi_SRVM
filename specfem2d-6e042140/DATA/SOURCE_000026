@@ -1,0 +1,13 @@
+source_surf = .false.
+xs =7527.272727
+zs =2990.000000
+source_type = 1
+time_function_type = 1
+f0 = 4.0 
+tshift = 0.0
+anglesource = 0.0
+Mxx = 1.0
+Mzz = 1.0
+Mxz = 0.0
+factor = 10000000000.0
+
