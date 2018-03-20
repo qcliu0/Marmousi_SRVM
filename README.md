@@ -2,7 +2,7 @@
 
 Dataset to test SRVM based elastic FWI and acoustic FWI.
 
-We can compare SRVM with L-BFGS in this testing.
+We can compare SRVM with L-BFGS in terms of data misfit and model misfits.
 
 The useage of this example is similar with those under SeisFlows, except for on additional option, SRVM.
 
