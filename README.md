@@ -6,4 +6,4 @@ We can compare SRVM with L-BFGS in this testing.
 
 The useage of this example is similar with those under SeisFlows, except for on additional option, SRVM.
 
-SRVM stays together with SD, CG, L-BFGS.
+SRVM goes along with SD, CG, L-BFGS.
