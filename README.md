@@ -9,3 +9,7 @@ The useage of this example is similar with those under SeisFlows, except for one
 SRVM goes along with SD, CG, L-BFGS.
 
 We can modify this model, for example, into the free-surface case.
+
+======update@Nov 7, 2018
+
+We also have 3D local-scale SRVM numerical examples. Although being oversized for uploading, they are available upon request.
