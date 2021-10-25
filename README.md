@@ -1,5 +1,5 @@
-# Marmousi_onshore_SRVM
-=======================
+# Marmousi_SRVM
+
 * Dataset to test SRVM based elastic FWI and acoustic FWI.
 * We can compare SRVM with L-BFGS in terms of data misfit and model misfits.
 
